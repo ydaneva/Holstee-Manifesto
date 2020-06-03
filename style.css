@@ -1,0 +1,64 @@
+body {
+	border: 05px solid tomato;
+	height: 1000px;
+  width: 700px;
+}
+
+p {
+font-family: 'Libre Caslon Text', serif;
+font-size: 17px;
+color:black;
+text-align: center;
+padding: 50px 10px 40px 10px;
+}	
+
+.left-column {
+	width: 50%;
+	float: left;
+	height: 200px;
+  width: 350px;
+	margin:0px;
+}	
+.right-column {
+	width: 50%;
+	float: right;
+	height: 200px;
+	margin:0px;
+
+}
+.first {
+	background-color: #FF8C61;
+}
+.second {
+	background-color: #5B4855;
+}
+.third {
+	background-color: #FF8C61;
+}
+.fourth  {
+	background-color: #A85751;
+}
+.fifth  {
+	background-color: #7C3626;
+}
+.sixth {
+	background-color: #F5853F;
+}
+.seventh {
+	background-color: #FFCDBC;
+}
+.eight {
+	background-color: #7F1C64;
+}
+.ninth {
+	background-color: #C5283D;
+}
+.tenth {
+	background-color: #7F1C64;
+}
+span{
+	font-family: 'Libre Caslon Text', serif;
+	font-weight: bold;
+	font-style: italic;
+	font-size:20px; 
+}
